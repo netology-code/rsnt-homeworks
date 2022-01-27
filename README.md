@@ -10,7 +10,7 @@
 
 3.1. [Отказоустойчивые сети.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-01.md)
 
-3.2. [Протоколы связующего дерева.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-02.md)
+3.2. [Протоколы связующего дерева.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-02/3-02.md)
 
 3.3. [Методы логического объединения интерфейсов. Балансировка нагрузки, протоколы.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-03.md)
 
