@@ -18,6 +18,6 @@
 
 3.5. [Методы логического объединения устройств.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-05.md)
 
-3.6. [Настройка, диагностика, устранения неисправностей в протоколах для построения отказоустойчивых сетей.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-06.md)
+3.6. [Построение отказоустойчивых сетей.](https://github.com/netology-code/rsnt-homeworks/blob/main/3-06.md)
 
 
